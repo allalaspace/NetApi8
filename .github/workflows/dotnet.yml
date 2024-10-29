@@ -25,7 +25,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore ./NetApi8/NetApi8.sln
+      run: dotnet restore NetApi8.sln
       working-directory: ./NetApi8
     - name: Build
       run: dotnet build ./NetApi8/NetApi8.sln --no-restore
