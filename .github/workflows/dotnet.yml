@@ -29,7 +29,5 @@ jobs:
       working-directory: ./NetApi8
     - name: Build
       run: dotnet build NetApi8.sln --no-restore
-      working-directory: ./NetApi8
     - name: Test
       run: dotnet test NetApi8.sln --no-build --verbosity normal
-      working-directory: ./NetApi8
