@@ -535,30 +535,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MohamedAliBOUDICHE\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MohamedAliBOUDICHE\\source\\repos\\NetApi8\\NetApi8.csproj",
+      "projectUniqueName": "/workspaces/NetApi8/NetApi8.csproj",
       "projectName": "NetApi8",
-      "projectPath": "C:\\Users\\MohamedAliBOUDICHE\\source\\repos\\NetApi8\\NetApi8.csproj",
-      "packagesPath": "C:\\Users\\MohamedAliBOUDICHE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MohamedAliBOUDICHE\\source\\repos\\NetApi8\\obj\\",
+      "projectPath": "/workspaces/NetApi8/NetApi8.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/NetApi8/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MohamedAliBOUDICHE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -610,7 +604,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

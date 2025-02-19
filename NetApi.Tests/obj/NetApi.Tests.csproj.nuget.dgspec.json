@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/NetApi8/NetApi8.csproj": {}
+    "/workspaces/NetApi8/NetApi.Tests/NetApi.Tests.csproj": {}
   },
   "projects": {
-    "/workspaces/NetApi8/NetApi8.csproj": {
+    "/workspaces/NetApi8/NetApi.Tests/NetApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/NetApi8/NetApi8.csproj",
-        "projectName": "NetApi8",
-        "projectPath": "/workspaces/NetApi8/NetApi8.csproj",
+        "projectUniqueName": "/workspaces/NetApi8/NetApi.Tests/NetApi.Tests.csproj",
+        "projectName": "NetApi.Tests",
+        "projectPath": "/workspaces/NetApi8/NetApi.Tests/NetApi.Tests.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/NetApi8/obj/",
+        "outputPath": "/workspaces/NetApi8/NetApi.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -43,13 +43,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[1.21.0, )"
+              "version": "[17.8.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "coverlet.collector": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
             }
           },
           "imports": [
@@ -64,9 +72,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
