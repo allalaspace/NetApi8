@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0248FF8B-6C93-4295-8B90-809CC944881B}|NetApi8.Api.csproj|c:\\users\\mohamedaliboudiche\\documents\\gitali\\netapi8\\netapi8.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0248FF8B-6C93-4295-8B90-809CC944881B}|NetApi8.Api.csproj|solutionrelative:netapi8.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{105EE890-3667-4DB5-AF8E-B58260078DA7}|NetApi8.Test\\NetApi8.Test.csproj|c:\\users\\mohamedaliboudiche\\documents\\gitali\\netapi8\\netapi8.test\\netapi8.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{105EE890-3667-4DB5-AF8E-B58260078DA7}|NetApi8.Test\\NetApi8.Test.csproj|solutionrelative:netapi8.test\\netapi8.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0248FF8B-6C93-4295-8B90-809CC944881B}|NetApi8.Api.csproj|c:\\users\\mohamedaliboudiche\\documents\\gitali\\netapi8\\netapi8.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0248FF8B-6C93-4295-8B90-809CC944881B}|NetApi8.Api.csproj|solutionrelative:netapi8.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,26 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NetApi8.Test",
               "DocumentMoniker": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Test\\NetApi8.Test.csproj",
               "RelativeDocumentMoniker": "NetApi8.Test\\NetApi8.Test.csproj",
               "ToolTip": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Test\\NetApi8.Test.csproj",
               "RelativeToolTip": "NetApi8.Test\\NetApi8.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-26T10:58:14.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NetApi8.Api",
               "DocumentMoniker": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Api.csproj",
               "RelativeDocumentMoniker": "NetApi8.Api.csproj",
               "ToolTip": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Api.csproj",
               "RelativeToolTip": "NetApi8.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-26T10:58:12.541Z",
               "EditorCaption": ""
