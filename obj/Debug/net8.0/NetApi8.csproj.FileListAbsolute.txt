@@ -63,3 +63,14 @@ C:/Users/MohamedAliBOUDICHE/source/repos/NetApi8/obj/Debug/net8.0/ref/NetApi8.dl
 /workspaces/NetApi8/obj/Debug/net8.0/NetApi8.pdb
 /workspaces/NetApi8/obj/Debug/net8.0/NetApi8.genruntimeconfig.cache
 /workspaces/NetApi8/obj/Debug/net8.0/ref/NetApi8.dll
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.csproj.AssemblyReference.cache
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.AssemblyInfoInputs.cache
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.AssemblyInfo.cs
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.sourcelink.json
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.dll
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\refint\NetApi8.dll
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.pdb

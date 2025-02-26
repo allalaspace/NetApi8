@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "gIruofWPodmRbNpr9Cdumt/ufeBJpvsUGHDgBReBTMk=",
-  "Source": "NetApi8",
-  "BasePath": "_content/NetApi8",
+  "Hash": "M5p3EtQsOb0J98vSzEyXRsHYR+35zaTqCONcDA4wTGY=",
+  "Source": "NetApi8.Api",
+  "BasePath": "_content/NetApi8.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

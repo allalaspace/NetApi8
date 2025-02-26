@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NetApi8/CopilotIndices/17.12.38.29086
+/.vs/NetApi8/FileContentIndex
+/bin/Debug/net8.0/NetApi.Tests/obj
+/bin/Debug/net8.0

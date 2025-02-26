@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi.Tests\\NetApi.Tests.csproj": {}
+    "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi.Tests\\NetApi.Tests.csproj": {
+    "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi.Tests\\NetApi.Tests.csproj",
-        "projectName": "NetApi.Tests",
-        "projectPath": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi.Tests\\NetApi.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Api.csproj",
+        "projectName": "NetApi8.Api",
+        "projectPath": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.Api.csproj",
         "packagesPath": "C:\\Users\\MohamedAliBOUDICHE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,19 +51,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[1.21.0, )"
             },
-            "coverlet.collector": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.6.2, )"
             },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.5.3, )"
-            },
-            "xunit.runner.visualstudio": {
+            "xunit.extensibility.core": {
               "target": "Package",
               "version": "[2.5.3, )"
             }
@@ -80,6 +76,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
