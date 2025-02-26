@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\MohamedAliBOUDICHE\\Documents\\GitAli\\NetApi8\\NetApi8.csproj": {}
   },
   "projects": {
@@ -20,13 +21,32 @@
           "C:\\Users\\MohamedAliBOUDICHE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "/Users/mohamedaliboudiche/GitClone/NetApi8/NetApi8.csproj": {}
+  },
+  "projects": {
+    "/Users/mohamedaliboudiche/GitClone/NetApi8/NetApi8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohamedaliboudiche/GitClone/NetApi8/NetApi8.csproj",
+        "projectName": "NetApi8",
+        "projectPath": "/Users/mohamedaliboudiche/GitClone/NetApi8/NetApi8.csproj",
+        "packagesPath": "/Users/mohamedaliboudiche/.nuget/packages/",
+        "outputPath": "/Users/mohamedaliboudiche/GitClone/NetApi8/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohamedaliboudiche/.nuget/NuGet/NuGet.Config"
+>>>>>>> main
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> main
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +65,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
+<<<<<<< HEAD
         "SdkAnalysisLevel": "9.0.100"
+=======
+        "SdkAnalysisLevel": "9.0.200"
+>>>>>>> main
       },
       "frameworks": {
         "net8.0": {
@@ -83,7 +107,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> main
         }
       }
     }
