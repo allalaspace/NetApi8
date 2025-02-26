@@ -1,7 +1,8 @@
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\appsettings.json
-C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi.Tests\obj\NetApi.Tests.csproj.nuget.dgspec.json
-C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi.Tests\obj\project.assets.json
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Test\obj\NetApi8.Test.csproj.nuget.dgspec.json
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Test\obj\project.assets.json
+C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Test\Properties\launchSettings.json
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Api.staticwebassets.endpoints.json
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Api.exe
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Api.deps.json
@@ -39,6 +40,3 @@ C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\refint\Net
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.Api.pdb
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\NetApi8.Api.genruntimeconfig.cache
 C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\obj\Debug\net8.0\ref\NetApi8.Api.dll
-C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Test\obj\NetApi8.Test.csproj.nuget.dgspec.json
-C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Test\obj\project.assets.json
-C:\Users\MohamedAliBOUDICHE\Documents\GitAli\NetApi8\bin\Debug\net8.0\NetApi8.Test\Properties\launchSettings.json

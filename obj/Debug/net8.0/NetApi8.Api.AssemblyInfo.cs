@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetApi8.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a29df52e83c8395d58b104e1e8b126c509e255")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c707166741ce29bebc2e58d57ed47645122e55")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetApi8.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetApi8.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
