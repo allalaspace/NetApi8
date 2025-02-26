@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "NetApi8.Test": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49224;http://localhost:49225"
+    }
+  }
+}

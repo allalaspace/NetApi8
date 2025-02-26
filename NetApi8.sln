@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApi8.Api", "NetApi8.Api.csproj", "{0248FF8B-6C93-4295-8B90-809CC944881B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApi8.Test", "..\NetApi8.Test\NetApi8.Test.csproj", "{8349E5FD-2C3C-43FF-80C6-82E3A7C4E3ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApi8.Test", "NetApi8.Test\NetApi8.Test.csproj", "{105EE890-3667-4DB5-AF8E-B58260078DA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0248FF8B-6C93-4295-8B90-809CC944881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0248FF8B-6C93-4295-8B90-809CC944881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0248FF8B-6C93-4295-8B90-809CC944881B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8349E5FD-2C3C-43FF-80C6-82E3A7C4E3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8349E5FD-2C3C-43FF-80C6-82E3A7C4E3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8349E5FD-2C3C-43FF-80C6-82E3A7C4E3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8349E5FD-2C3C-43FF-80C6-82E3A7C4E3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105EE890-3667-4DB5-AF8E-B58260078DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105EE890-3667-4DB5-AF8E-B58260078DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105EE890-3667-4DB5-AF8E-B58260078DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105EE890-3667-4DB5-AF8E-B58260078DA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
