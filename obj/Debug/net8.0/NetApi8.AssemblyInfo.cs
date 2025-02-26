@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetApi8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c99c49cac01b54fe79d88deb812a303d5d92218")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d57c9ddad052b07b2da3e3e90b4f23bf3158a646")]
+>>>>>>> main
 [assembly: System.Reflection.AssemblyProductAttribute("NetApi8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetApi8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
